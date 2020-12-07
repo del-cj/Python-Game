@@ -10,3 +10,6 @@ Aditi created the initial diceroll.py file and I created the other files, includ
 Due to time constraints and the current pandemic, we were only able to produce a text based version of our game.
 
 I hope to return to this project in the future and develop a version with visuals and animation like envisioned in the proposal.
+
+!!!!
+Pyfiglet is required for the title card to run properly. Enter "pip install pyfiglet" into your terminal to install it before running the game.
